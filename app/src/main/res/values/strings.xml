@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Give Me A Ride</string>
+    <string name="title_activity_login">Inicio de Sesión</string>
+    <string name="title_activity_sign_up">Registrarse</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar Sesión</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Correo electrónico incorrecto.</string>
+    <string name="error_invalid_password">Contraseña muy corta.</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Campo Requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Strings related to signup -->
+    <string name="action_sign_up">Registrar</string>
+    <string name="action_sign_up_short">Registrar</string>
+    <string name="prompt_confirm_password">Confirmar contraseña</string>
+    <string name="prompt_lastname">Apellido</string>
+    <string name="action_done">Listo</string>
+    <string name="prompt_name">Nombre</string>
+
+
+
+</resources>
