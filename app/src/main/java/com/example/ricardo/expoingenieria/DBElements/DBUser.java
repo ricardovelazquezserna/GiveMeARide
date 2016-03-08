@@ -36,7 +36,7 @@ public class DBUser {
 
     private boolean post = true; //get =false
 
-    static JSONObject userdb;
+    private static JSONObject userdb;
 
     public DBUser() {
         //inicializando...
@@ -214,7 +214,7 @@ public class DBUser {
     //getRides(){}
 
 
-    public static String POST(String url) {
+    private static String POST(String url) {
 
         String result = "";
 
